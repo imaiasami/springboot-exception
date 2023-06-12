@@ -1,0 +1,9 @@
+server:
+  port: 9000
+  error:
+    whitelabel:
+      enabled: true
+    include-exception: true
+    include-message: never
+    include-stacktrace: never
+#   include-exception: 오류 내용을 볼거냐 말거냐.
